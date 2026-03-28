@@ -1,4 +1,4 @@
-baseURL = "https://tobias-njcit.github.io/"
+baseURL = "https://nihongoniretsu.github.io/"
 languageCode = "ja-JP"
 title = "日本語二列"
 theme = "PaperMod"
@@ -20,7 +20,7 @@ theme = "PaperMod"
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/tobias-njcit"
+    url = "https://github.com/nihongoniretsu"
 
   [[params.socialIcons]]
     name = "x"
