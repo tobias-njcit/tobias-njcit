@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @tobias-njcit
-- 👀 I’m interested in deep learning in fintech
-- 🌱 I’m currently learning python to help with analysing data
-- 📫 How to reach me @tobias-njcit 
-- 😄 Pronouns: they
+# 日本語二列
 
+あくまでも自己満足と日本語練習のためのブログである。
+後方で腕組みでもしながら彼氏面して読むが良い。
+未成年はお断り。よろ。
 
---------- 
-I am a second year student in njcit, currently planning to move to Tokyo for exchange!
