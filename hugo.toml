@@ -1,6 +1,6 @@
 baseURL = "https://tobias-njcit.github.io/"
-languageCode = "en-us"
-title = "Tobias @ NJCIT"
+languageCode = "ja-JP"
+title = "日本語二列"
 theme = "PaperMod"
 [pagination]
   pagerSize = 5
@@ -12,11 +12,11 @@ theme = "PaperMod"
   showPostNavLinks = true
   showBreadCrumbs = true
   showCodeCopyButtons = true
-  description = "Deep learning, fintech, and life as a student — from NJCIT to Tokyo."
+  description = "随筆"
 
   [params.homeInfoParams]
-    Title = "Hi, I'm Tobias"
-    Content = "Second-year student at NJCIT. Interested in deep learning and fintech. Currently learning Python and planning an exchange to Tokyo."
+    Title = "日本語二列"
+    Content = "あくまでも自己満足と日本語練習のためのブログである。内容の正確性に関しては保証しない。後方で腕組みでもしながら彼氏面して読むが良い。"
 
   [[params.socialIcons]]
     name = "github"
