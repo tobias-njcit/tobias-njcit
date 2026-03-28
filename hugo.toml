@@ -16,11 +16,15 @@ theme = "PaperMod"
 
   [params.homeInfoParams]
     Title = "日本語二列"
-    Content = "あくまでも自己満足と日本語練習のためのブログである。内容の正確性に関しては保証しない。後方で腕組みでもしながら彼氏面して読むが良い。"
+    Content = "暴言、妄想、執着心"
 
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/tobias-njcit"
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/nihonniretsu"
 
 [menu]
   [[menu.main]]

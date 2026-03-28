@@ -1,14 +1,11 @@
 ---
 title: "About"
-date: 2026-03-29
+date: 2026-03-29T00:00:00+09:00
 draft: false
 hidemeta: true
 showToc: false
 ---
 
-I'm Tobias, a second-year student at NJCIT (New Jersey County Institute of Technology).
-
-I'm interested in applying deep learning to fintech problems. Currently learning
-Python for data analysis, and planning to spend a semester on exchange in Tokyo.
-
-You can find me on [GitHub](https://github.com/tobias-njcit).
+あくまでも自己満足と日本語練習のためのブログである。  
+内容の正確性に関しては保証しない。  
+後方で腕組みでもしながら彼氏面して読むが良い。  
