@@ -1,0 +1,15 @@
+{{- if .Param "math" }}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css" integrity="sha384-zh0CIslj3dQfO2RNbR6jnONVR5eff2kU8FYLT6ZHKM3T/31QxQnCy+SBdaFMKGN" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.js" integrity="sha384-Rma6DA2IPUwhNxmrB/7S3Tno0YY7sFu/FRyAk2dHl+gMlcLaKqdVrS/EBBjjYJe" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrKIQ9pMh9jO6MpBp2SJWC8CHdQZ8n/1RZZRXU2pLHBrY7ro+BN4IZaj+bHM" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false}
+      ]
+    });
+  });
+</script>
+{{- end }}
